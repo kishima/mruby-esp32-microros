@@ -1,5 +1,5 @@
 module ESP32
-  class I2C
+  class MicroROSNode
     def initialize()
     end
   end
